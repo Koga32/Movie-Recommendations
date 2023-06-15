@@ -1,0 +1,27 @@
+[{
+        "name": "The Boys",
+        "imdb": 9.3,
+        "date": "2022",
+        "sposter": "img/the boys.jpg",
+        "bposter": "img/the boys1.jpg",
+        "genre": "Action",
+        "type": "series",
+        "url": "the boys.html",
+        "trailer": "the boys trailer.mp4",
+        "low": "video/the boys 480ph.mp4",
+        "medium": "video/the boys 720ph.mp4",
+        "high": "video/the boys 1080ph.mp4"
+    }, {
+        "name": "Money Heist",
+        "imdb": 9.9,
+        "date": "2020",
+        "sposter": "img/money heist.jpg",
+        "bposter": "img/money heist1.jpg",
+        "genre": "Action",
+        "type": "series",
+        "url": "money heist.html",
+        "trailer": "money heist trailer.mp4",
+        "low": "video/money heist 480ph.mp4",
+        "medium": "video/money heist 720ph.mp4",
+        "high": "video/money heist 1080ph.mp4"
+    },
